@@ -3,4 +3,4 @@ this is my first text file
 this is my first text file
 this is my first text file
 
-this is my first text file
+this is my first text filetesting GitBash and how things work with the command line
